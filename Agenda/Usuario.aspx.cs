@@ -22,6 +22,7 @@ namespace Agenda
         {
             if (e.Exception != null)
             {
+                ///Testes
                 e.ExceptionHandled = true;
             }
         }
